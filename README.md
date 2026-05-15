@@ -1,5 +1,3 @@
-# ProjetoTerminalRodoviario
-Projeto acadêmico desenvolvido na disciplina de Programação para Dispositivos Móveis em Android.
 # Projeto Terminal Rodoviário
 
 ## Desenvolvimento de Aplicativo Android para Comunicação Operacional em Terminal Rodoviário
